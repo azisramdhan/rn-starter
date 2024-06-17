@@ -10,6 +10,6 @@ const ImageScreen = () => {
     </View>
 }
 
-const stylesheet = StyleSheet.create({});
+const styles = StyleSheet.create({});
 
 export default ImageScreen;
